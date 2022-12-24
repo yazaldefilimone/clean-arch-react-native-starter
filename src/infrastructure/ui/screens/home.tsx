@@ -1,7 +1,6 @@
-import { StatusBar } from 'expo-status-bar';
 import { FunctionComponent } from 'react';
 import { Text, View } from 'react-native';
-import { Button } from '~/infrastructure/ui/components/Button';
+import { Button } from '~/infrastructure/ui/components/button';
 
 export const Home: FunctionComponent = () => {
   return (
@@ -11,7 +10,6 @@ export const Home: FunctionComponent = () => {
         your mobile application.
       </Text>
       <Button />
-      <StatusBar style="auto" />
     </View>
   );
 };
