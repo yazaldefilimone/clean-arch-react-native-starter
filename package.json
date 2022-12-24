@@ -2,6 +2,23 @@
   "name": "clean-arch-react-native-starter",
   "version": "1.0.0",
   "main": "./src/main/index.ts",
+  "description": "Clean architecture starter for Next.js with TypeScript. All the tools you need to build your next project.",
+  "repository": "https://github.com/yazaldefilimonepinto/clean-arch-nextjs-starter",
+  "author": {
+    "name": "Yazalde Filimone",
+    "email": "yazaldefilimon@gmail.com",
+    "url": "https://yazaldefilimone.vercel.app"
+  },
+  "homepage": "https://github.com/yazaldefilimonepinto/clean-arch-nextjs-starter",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-native",
+    "react native boilerplate",
+    "react native starter",
+    "clean architecture react native",
+    "tailwindcss in react-native"
+  ],
   "scripts": {
     "start": "expo start --dev-client",
     "test": "jest --no-cache",
