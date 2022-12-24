@@ -1,0 +1,14 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "rootDirs": ["src", "tests"],
+    "baseUrl": ".",
+    "strict": true,
+    "paths": {
+      "~/tests/*": ["./tests/*"],
+      "~/*": ["./src/*"],
+      "~/public": ["./public/*"]
+    },
+  },
+  "include": ["src", "tests"],
+}
