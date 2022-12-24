@@ -1,15 +1,15 @@
 {
   "name": "clean-arch-react-native-starter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "./src/main/index.ts",
   "description": "Clean architecture starter for Next.js with TypeScript. All the tools you need to build your next project.",
-  "repository": "https://github.com/yazaldefilimonepinto/clean-arch-nextjs-starter",
+  "repository": "https://github.com/yazaldefilimonepinto/clean-arch-react-native-starter",
   "author": {
     "name": "Yazalde Filimone",
     "email": "yazaldefilimon@gmail.com",
     "url": "https://yazaldefilimone.vercel.app"
   },
-  "homepage": "https://github.com/yazaldefilimonepinto/clean-arch-nextjs-starter",
+  "homepage": "https://github.com/yazaldefilimonepinto/clean-arch-react-native-starter",
   "license": "MIT",
   "keywords": [
     "react",
