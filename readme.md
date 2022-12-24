@@ -30,7 +30,7 @@ The best way to start with this template is using [create-expo-app](https://docs
 ```
 # npx
 
-npx create-expo-app --template https://github.com/yazaldefilimonepinto/clean-arch-react-native-starter
+npx create-expo-app --template clean-arch-react-native-starter
 
 ```
 
