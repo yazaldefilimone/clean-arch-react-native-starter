@@ -2,7 +2,7 @@ export default {
   roots: ['<rootDir>/src', '<rootDir>/tests'],
   preset: 'react-native',
   coverageDirectory: 'coverage',
-  testMatch: ['**/*.spec.ts', '**/*/.test.ts'],
+  testMatch: ['**/*.spec.{js,ts,jsx,tsx}', '**/*/.test.{js,ts,jsx,tsx}'],
   moduleNameMapper: {
     '~/tests/(.+)': '<rootDir>/tests/$1',
     '~/(.+)': '<rootDir>/src/$1',
