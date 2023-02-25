@@ -30,7 +30,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@expo/webpack-config": "^0.17.2",
+    "@expo/webpack-config": "^18.0.1",
     "@react-navigation/native": "^6.1.1",
     "@react-navigation/native-stack": "^6.9.7",
     "expo": "~47.0.9",
